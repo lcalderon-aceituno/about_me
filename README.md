@@ -5,7 +5,7 @@ I am a 2nd year Ph.D. student at Cornell University studying aerospace engineeri
 
 ---
 ## Research
-### Swarm robotics: How can a whole is greater than the sum of its parts? 
+### Swarm robotics: How can a whole be greater than the sum of its parts? 
 
 My research attempts to answer this question by drawing inspiration from nature, where we often see groups of hundreds or thousands of simple individuals acting together as a collective to achieve complex tasks. I aim to find the algorithmic and mechanical mechanisms that make this behavior possible and to try my best to emulate them and utilize them for good. 
 

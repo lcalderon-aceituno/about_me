@@ -9,13 +9,6 @@ I am a 2nd year Ph.D. student at Cornell University studying aerospace engineeri
 
 My research attempts to answer this question by drawing inspiration from nature, where we often see groups of hundreds or thousands of simple individuals acting together as a collective to achieve complex tasks. I aim to find the algorithmic and mechanical mechanisms that make this behavior possible and to try my best to emulate them and utilize them for good. 
 
----
-## Research
-### Swarm robotics 
-My research seeks to answer a simple question: how can we make it so that the whole is greater than the sum of its parts? 
-
-Swarm robotics seeks to do exactly this by drawing inspiration from nature, were we often see groups of hundreds or thousands of simple individuals, acting together as a collective to acheive complex tasks. Our task is to find the algorithmic and mechanical mechanisms which make this behavior possible, and to try our best to emmulate and utilize it for good. 
-
 ----
 ## Recent News
 - **Participant at the Ivy Collective for Inclusion in Engineering Doctoral Symposium** - *Harvard University, November 2024*  

@@ -1,7 +1,7 @@
 # Lydia Isabela Calderón-Aceituno 
 
 
-I am a 2nd year Ph.D. student at Cornell University studying aerospace engineering under the guidance of Kirstin Hagelskjaer Petersen. My PhD is supported by the [National GEM Consortium](https://www.gemfellowship.org/), and I am a [Cornell Graduate School Dean's Scholar.]([https://diversity.cis.cornell.edu/financial-support/](https://gradschool.cornell.edu/diversity-inclusion/signature-initiatives/graduate-school-deans-scholars/)) 
+I am a 2nd year Ph.D. student at Cornell University studying swarm robotics under the guidance of Kirstin Hagelskjaer Petersen. My PhD is supported by the [National GEM Consortium](https://www.gemfellowship.org/), and I am a [Cornell Graduate School Dean's Scholar.]([https://diversity.cis.cornell.edu/financial-support/](https://gradschool.cornell.edu/diversity-inclusion/signature-initiatives/graduate-school-deans-scholars/)) 
 
 ---
 ## Research
